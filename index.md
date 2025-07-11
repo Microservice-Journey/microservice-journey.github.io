@@ -21,7 +21,7 @@
             </ul>
         </td>
         <td width="50%">
-            <img width="400" alt="Overview" src="https://github.com/user-attachments/assets/0377a45f-2e0b-463a-ba06-5766c68ea884" /> 
+            <img width="300px" alt="Overview" src="https://github.com/user-attachments/assets/0377a45f-2e0b-463a-ba06-5766c68ea884" /> 
         </td>
     </tr>
     <tr>
@@ -33,7 +33,7 @@
             </ul>
         </td>
         <td width="50%">
-            <img width="400" alt="Tool page" src="https://github.com/user-attachments/assets/d4a6ad1e-1a54-4551-acfe-1006fc107e32" />
+            <img width="300px" alt="Tool page" src="https://github.com/user-attachments/assets/d4a6ad1e-1a54-4551-acfe-1006fc107e32" />
         </td>
     </tr>
     <tr>
@@ -44,7 +44,7 @@
             </ul>
         </td>
         <td width="50%">
-            <img width="400" alt="Notes, reminders, learning progress" src="https://github.com/user-attachments/assets/d01a5f95-dad4-4bed-b6f5-2cd5da123a3b" />
+            <img width="300px" alt="Notes, reminders, learning progress" src="https://github.com/user-attachments/assets/d01a5f95-dad4-4bed-b6f5-2cd5da123a3b" />
         </td>
     </tr>
 </table>
